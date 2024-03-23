@@ -1,8 +1,8 @@
-# React + Vite
+# clone instagram
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# OutPut
+# Desktop-view
+![Screenshot 2024-03-23 234118](https://github.com/omexa/my1stClone/assets/160068895/9b37091c-bf96-4669-b0d4-d0801333678e)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Mobile-View
+![Screenshot 2024-03-23 234225](https://github.com/omexa/my1stClone/assets/160068895/a7515ea5-46b8-4a39-83e5-765abb7f68d8)
